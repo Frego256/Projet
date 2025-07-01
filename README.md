@@ -7,7 +7,6 @@ Dieses Projekt kombiniert einen **System-Monitor für den Raspberry Pi**. Der Sy
 - Anzeige von:
   - CPU-Temperatur & Auslastung
   - RAM-Verbrauch
-  - IP-Adresse
 
 ## 🚀 Technologien
 - **Node.json**
